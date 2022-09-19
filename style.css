@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Nabla&display=swap');
+
+body {
+  background: linear-gradient(189.85deg, #041832 30.50%, #3468a7 140.03%);
+  font-family: 'Nabla', cursive;
+}
+
+.container{
+  background: 	#1C1C1C;
+  margin:60px;
+  border-radius: 18px;
+  box-shadow: 7px 15px 70px #F0E68C;
+  padding: 25px;
+}
+
+.perfil{
+  display: flex;
+  align-items: center;
+}
+
+.perfil-foto{
+  border-radius: 450px;
+  max-height:280px;
+  box-shadow: 0px 0px 90px rgba(255, 225, 0, 0.45);
+}
+
+.titulo{
+  margin-left: 30px
+}
+
+.titulo h1{
+  font-weight: 700;
+  font-size: 55px
+}
+
+.titulo h2{
+  font-weight: 400;
+  font-size: 28px;
+}
+
+.projetos{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: linear-gradient(-240.65deg, #0000 35.49%, #F0E68C 205.19%);
+margin-top: 35px;
+border-radius: 20px;
+
+}
+.redes{
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  background: linear-gradient(240.65deg, #0000 35.49%, 		#F0E68C 205.19%);
+  margin-top: 35px;
+  padding: 5px;
+  border-radius: 20px;
+    font-weight: 700;
+  font-size:20px
+}
+.projetos-titulo{
+  font-weight: 450;
+  font-size:30px;
+  line-height: 46px;
+
+    
+}
+.projetos-item{
+  list-style-type: none;
+  font-size:25px;
+  font-weight: 400px;
+  line-height: 40px;
+}
+
+.projetos-item a {
+  text-decoration: none
+
+}
