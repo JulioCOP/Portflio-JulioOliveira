@@ -1,8 +1,8 @@
-@import url('https://fonts.google.com/specimen/Nabla');
+@import url('https://fonts.google.com/specimen/Vast+Shadow');
 
 body {
   background: linear-gradient(189.85deg, #041832 30.50%, #3468a7 140.03%);
-  font-family: 'Nabla', cursive;
+  font-family: 'Nabla';
 }
 
 .container{
