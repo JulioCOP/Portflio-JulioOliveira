@@ -2,7 +2,7 @@
 
 body {
   background: linear-gradient(189.85deg, #041832 30.50%, #3468a7 140.03%);
-  font-family: monospace;
+  font-family: 'Nabla', cursive;
 }
 
 .container{
@@ -63,7 +63,7 @@ border-radius: 20px;
   font-size:30px;
   line-height: 46px;
 
-
+    
 }
 .projetos-item{
   list-style-type: none;
